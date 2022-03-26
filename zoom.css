@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.icon-img{
+    width: 162px;
+    height: 50px;
+}
+h1{
+    text-align: center;
+}
+.header{
+    position: fixed;
+}
+.card img{
+    /* width: 337px; */
+    height: 337px;
+}
+
+.row{
+    justify-content: space-around;
+    
+}
+a{
+    text-decoration: none;
+}
+.text-dark{
+    text-decoration: none;
+}
